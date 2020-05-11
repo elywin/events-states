@@ -1,6 +1,9 @@
 ## Events and states 
+
 step 1: define the state
+
 step 2: display the state
+
 step 3: update the state
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
